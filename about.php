@@ -9,11 +9,12 @@
     <link rel="stylesheet" href="./script/style.css" />
 </head>
 
-<body class="bg">
-    <h1 class="abc">เกี่ยวกับเรา</h1>
+<body class="">
+    
     <?php
       include "navbar.php";
     ?>
+    <h1 class="abc">เกี่ยวกับเรา</h1>
    
 <br/>
 

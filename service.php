@@ -8,10 +8,12 @@
     <link rel="stylesheet" href="./script/style.css" />
 </head>
 <body>
-    <h1>ให้บริการ </h1>
-    <?php
+
+<?php
       include "navbar.php";
     ?>
+    <h1>ให้บริการ </h1>
+    
     
     
     

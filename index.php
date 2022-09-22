@@ -9,12 +9,14 @@
    <link rel="stylesheet" href="./script/style.css" />
 </head>
 
+<?php 
+     include"navbar.php"; 
+    ?>
+
 <body class="bgimg">
     
     <h1 class="abc"> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
-    <?php 
-     include"navbar.php"; 
-    ?>
+    
     
     <br>
     

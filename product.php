@@ -9,10 +9,12 @@
     <link rel="stylesheet" href="./script/style.css" />
 </head>
 <body>
-    <h1>สินค้า</h1>   
-    <?php
+
+<?php
       include "navbar.php";
     ?>
+    <h1>สินค้า</h1>   
+    
 
    
 

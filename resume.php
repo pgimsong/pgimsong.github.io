@@ -9,12 +9,13 @@
 </head>
 <body>
 
-    <h1>ผู้จัดทำ</h1>
+   
   
     <?php
       include "navbar.php";
     ?>
-   
+
+    <h1>ผู้จัดทำ</h1>
    
     
     

@@ -10,11 +10,13 @@
 </head>
 
 <body>
-    <h1 class="abc">ติดต่อเรา</h1>
-    <hr />
-    <?php
+  
+  <?php
       include "navbar.php";
     ?>
+    <h1 class="abc">ติดต่อเรา</h1>
+    <hr />
+    
     
     <br />
 
