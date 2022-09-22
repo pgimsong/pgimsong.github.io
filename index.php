@@ -12,18 +12,14 @@
 <body class="bgimg">
     
     <h1 class="abc"> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
-    <ul> 
-       <li><a href="index.html"> Home </a></li>
-       <li><a href="about.html"> เกี่ยวกับเรา </a></li>
-       <li><a href="contact.html"> ติดต่อเรา </a></li>
-       <li><a href="product.html"> สินค้า </a></li>
-       <li><a href="resume.html"> ผู้จัดทำ </a></li>
-       <li><a href="service.html"> บริการ </a></li>
-    </ul>
-    <br/>
+    <?php 
+     include"navbar.php"; 
+    ?>
+    
+    <br>
     
       
-        <p class="border">
+        <p class="border bg-white">
             เว็บไซต์นี้จัดทำขึ้นเพื่อใช้ประกอบกการเรียนการสอน
             วิชาอินเตอร์เน็ตและการสร้างเว็บไซต์ โรงเรียนฝึกอาชีพ
             กรุงเทพมหานคร (ดินแดง1)

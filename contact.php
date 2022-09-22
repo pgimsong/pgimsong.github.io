@@ -12,14 +12,10 @@
 <body>
     <h1 class="abc">ติดต่อเรา</h1>
     <hr />
-    <ul> 
-        <li><a href="index.html"> Home </a></li>
-        <li><a href="about.html"> เกี่ยวกับเรา </a></li>
-        <li><a href="contact.html"> ติดต่อเรา </a></li>
-        <li><a href="product.html"> สินค้า </a></li>
-        <li><a href="resume.html"> ผู้จัดทำ </a></li>
-        <li><a href="service.html"> บริการ </a></li>
-     </ul>
+    <?php
+      include "navbar.php";
+    ?>
+    
     <br />
 
     <iframe
